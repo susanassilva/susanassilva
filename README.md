@@ -1,4 +1,4 @@
-### Olá, como vai? Bem-vindo ao meu GitHub! Sou formada em Letras-Português/Literaturas, pela Universidade Federal Fluminense. Atuo em minha área como revisora. Contudo, estou explorando novos campos. Como sempre amei tecnologia e informática, resolvi me aventurar nessas áreas e cá estou. 
+### Olá, como vai? Bem-vindo ao meu GitHub! Sou formada em Letras-Português/Literaturas, pela Universidade Federal Fluminense. Atuo em minha área como revisora. Contudo, estou explorando novos campos. Como sempre amei tecnologia e informática, resolvi me aventurar nessas áreas, e cá estou. 
 
 Cursando atualmnente:
 
