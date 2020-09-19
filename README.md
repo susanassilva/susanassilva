@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá, como vai? Bem-vindo ao meu GitHub! Sou formada em Letras-Português/Literaturas, pela Universidade Federal Fluminense. Atuo em minha área como revisora. Contudo, estou explorando novos campos. Como sempre amei tecnologia e informática, resolvi me aventurar nessas áreas e cá estou. 
+
+Cursando atualmnente:
+
+- Programador Web - IFTO
+- Programador de Sistemas - IFRN
+- Técnico em Análise e Desenvolvimento de Sistemas - IFSuldeMinas
 
 <!--
 **susanasilva95/susanasilva95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
