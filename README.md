@@ -1,10 +1,5 @@
-### Olá, como vai? Bem-vindo ao meu GitHub! Sou formada em Letras-Português/Literaturas, pela Universidade Federal Fluminense. Atuo em minha área como revisora. Contudo, estou explorando novos campos. Como sempre amei tecnologia e informática, resolvi me aventurar nessas áreas, e cá estou. 
+### Olá, como vai? Bem-vinda(o) ao meu GitHub! Meu nome é Susana Santos Silva, sou formada em Letras-Português/Literaturas, pela Universidade Federal Fluminense, e hoje estou cursado Sistemas de Computação, na mesma universidade. Pretendo interligar as duas áreas por meio do estudo de Processamento de Linguagem Natural, ainda estou caminhando para isso e, em breve, serão postados repositórios demonstrando esse caminhar. Obrigada pela visita, volte sempre!
 
-Cursando atualmente:
-
-- Programador Web - IFTO
-- Programador de Sistemas - IFRN
-- Técnico em Análise e Desenvolvimento de Sistemas - IFSuldeMinas
 
 <!--
 **susanasilva95/susanasilva95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
