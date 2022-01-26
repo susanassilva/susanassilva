@@ -1,4 +1,4 @@
-### Olá, como vai? Bem-vinda(o) ao meu GitHub! Meu nome é Susana Santos Silva, sou formada em Letras-Português/Literaturas, pela Universidade Federal Fluminense, e hoje estou cursado Sistemas de Computação, na mesma universidade. Pretendo interligar as duas áreas por meio do estudo de Processamento de Linguagem Natural, ainda estou caminhando para isso e, em breve, serão postados repositórios demonstrando esse caminhar. Obrigada pela visita, volte sempre!
+### Olá, como vai? Bem-vinda(o) ao meu GitHub! Meu nome é Susana Santos Silva, sou formada em Letras-Português/Literaturas, pela Universidade Federal Fluminense, e hoje estou cursado Sistemas de Computação, na mesma universidade. Obrigada pela visita, volte sempre!
 
 
 <!--
