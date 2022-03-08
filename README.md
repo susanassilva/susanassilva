@@ -17,9 +17,8 @@
 </div>
 
   
- <div>
-    <br>
-  # ![Snake animation](https://github.com/susanassilva/susanassilva/blob/output/github-contribution-grid-snake.svg)
+ # <div>
+   ![Snake animation](https://github.com/susanassilva/susanassilva/blob/output/github-contribution-grid-snake.svg)
   </div>
 
 
