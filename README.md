@@ -16,6 +16,11 @@
   <img height="40em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
 
+  
+  <div>
+    <br>
+    ![Snake animation](https://github.com/susanassilva/susanassilva/blob/output/github-contribution-grid-snake.svg)
+  </div>
 
 
 <!--
