@@ -1,4 +1,21 @@
-### Olá, como vai? Bem-vinda(o) ao meu GitHub! Meu nome é Susana Santos Silva, sou formada em Letras-Português/Literaturas, pela Universidade Federal Fluminense, e hoje estou cursado Sistemas de Computação, na mesma universidade. Obrigada pela visita, volte sempre!
+<p style="font-family:Georgia">Hey, bem-vinda(o) ao meu GitHub! Meu nome é Susana Santos Silva, estou me formando em Desenvolvimento Web e alguns dos meus projetos serão publicados por aqui. </p>
+
+<div>
+  <a href="https://linkedin.com/in/susanassilva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=susanassilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susanassilva&layout=compact&langs_count=16&hide=PHP&theme=dracula"/>
+</div>
+<div style="display:inline_block">
+  <br>
+  <img height="40em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="40em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="40em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+  <img height="40em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img height="40em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img height="40em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
+  <img height="40em" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</div>
+
 
 
 <!--
