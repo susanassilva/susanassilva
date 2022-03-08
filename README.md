@@ -1,7 +1,7 @@
 <p style="font-family:Georgia">Hey, bem-vinda(o) ao meu GitHub! Meu nome é Susana Santos Silva, estou me formando em Desenvolvimento Web e alguns dos meus projetos serão publicados por aqui. </p>
 
 <div>
-  <a href="https://linkedin.com/in/susanassilva">
+  <a href="https://github.com/susanassilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=susanassilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susanassilva&layout=compact&langs_count=16&hide=PHP&theme=dracula"/>
 </div>
@@ -17,7 +17,7 @@
 </div>
 
   
- #<div>
+ <div>
     <br>
     ![Snake animation](https://github.com/susanassilva/susanassilva/blob/output/github-contribution-grid-snake.svg)
   </div>
