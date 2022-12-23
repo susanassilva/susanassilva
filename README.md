@@ -1,4 +1,4 @@
-<p style="font-family:Georgia">Hey, bem-vinda(o) ao meu GitHub! Meu nome é Susana Santos Silva, estou me formando em Desenvolvimento Web e alguns dos meus projetos serão publicados por aqui. </p>
+<p style="font-family:Georgia">Hey, I'm Susana! Welcome to my github. </p>
 
 <div>
   <a href="https://github.com/susanassilva">
