@@ -1,4 +1,6 @@
-<p style="font-family:Georgia">Hey, I'm Susana! Welcome to my github. </p>
+<link href="https://fonts.googleapis.com/css2?family=Titan+One&display=swap" rel="stylesheet">
+
+<h1 style="align-items: center">Hey, I'm Susana!  </h1>
 
 <div>
   <a href="https://github.com/susanassilva">
